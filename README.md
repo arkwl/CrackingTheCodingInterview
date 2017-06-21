@@ -8,3 +8,8 @@ In this question, Microsoft wants to see that you're passionate about technology
 
 Amazon cares a lot about scale. Make sure you prepare for scalability questions.
 See our recommendations in the System Design and Scalability chapter.
+
+// TODO: Make sure my current resume meets these standards:
+Take the Big Project Classes: Seek out the classes with big coding projects.This is a great way to get some- what practical experience before you have any formal work experience. The more relevant the project is to the real world, the better.
+Get an Internship: Do everything you can to land an internship early in school. It will pave the way for even better internships before you graduate. Many of the top tech companies have internship programs designed especially for freshman and sophomores. You can also look at startups, which might be more flexible.
+Start Something: Build a project on your own time, participate in hackathons, or contribute to an open source project. It doesn't matter too much what it is.The important thing is that you're coding. Not only will this develop your technical skills and practical experience, your initiative will impress companies.
