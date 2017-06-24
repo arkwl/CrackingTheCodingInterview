@@ -22,3 +22,21 @@ __Start Something:__ Build a project on your own time, participate in hackathons
 | Leadership                | EDUCodes, leadership is about bringing out the best in others |
 | Conflicts                 | Personality differences, incentives                           |   
 | What you'd do differently | Could have started without guidance, imposter syndrome        |
+
+
+Questions to ask interviewers:
+1. Genuine
+"What brought you to this company? What has been most challenging for you?"
+2. Insightful
+"I noticed that you use technology X. How do you handle problem Y?"
+3. Passion
+"I'm not familiar with technology X, but it sounds like a very interesting solution. Could you tell me a bit more about how it works?"
+
+Whenever telling a story, follow these steps:
+1. Nugget/The problem
+2. Situation
+3. Action
+4. Result
+5. Meaning
+
+Next Up!! Big O
