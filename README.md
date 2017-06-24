@@ -14,11 +14,11 @@ __Take the Big Project Classes:__ Seek out the classes with `big coding projects
 __Get an Internship:__ Do everything you can to land an internship early in school. It will pave the way for even better internships before you graduate. Many of the top tech companies have internship programs designed especially for freshman and sophomores. You can also look at startups, which might be more flexible.
 __Start Something:__ Build a project on your own time, participate in hackathons, or contribute to an `open source project`. It doesn't matter too much what it is.The important thing is that you're coding. Not only will this develop your technical skills and practical experience, your initiative will impress companies.
 
-| Common Questions          | Project 1          | Project 2          |
-| ------------------------- |:------------------:| ------------------:|
-| Challenges                |                    |                    |
-| Mistakes & Failures       |                    |                    |
-| Enjoyed                   |                    |                    |
-| Leadership                |                    |                    |
-| Conflicts                 |                    |                    |
-| What you'd do differently |                    |                    |
+| Common Questions          | Example                                                       |
+| ------------------------- |:-------------------------------------------------------------:|
+| Challenges                | TrailHub, needed mentorship (Doug)                            |
+| Mistakes & Failures       | Stubborness                                                   |
+| Enjoyed                   | Teamwork, fresh perspectives                                  |
+| Leadership                | EDUCodes, leadership is about bringing out the best in others |
+| Conflicts                 | Personality differences, incentives                           |   
+| What you'd do differently | Could have started without guidance, imposter syndrome        |
