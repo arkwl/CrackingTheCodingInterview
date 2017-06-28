@@ -55,4 +55,10 @@ Big 0, big omega, and big theta describe the upper, lower, and tight bounds for 
 
 Space vs Time Complexity
 
-Got up to example 5
+Straight recursion = O(n)
+
+Additional Problems:
+VI.1  O(b) ✅
+VI.2  O(b) ✅
+VI.3  O(1) ✅
+VI.4  O(b/a) oof almost O(a/b)
