@@ -68,3 +68,51 @@ VI.7  O(n) ✅
 VI.8  O(n) ✅
 VI.9  O(n^2) ✅
 VI.10 O(# of digits) almost!!! # of digits = 10^d (d = log n), so O(log n)
+
+***
+
+Technical Questions
+
+How to practice for them:
+1. Solve problem on my own
+2. Write code on paper
+3. Test on paper: general, base, edge cases
+4. Type code in as-is, write down errors and keep track
+
+__What you need to know__
+
+| Data Structures        | Algorithms            | Concepts                  |
+| ---------------------- |:--------------------- |:-------------------------:|
+| Linked Lists           | Breadth-First Search  | Bit Manipulation          |
+| Trees, Tries, & Graphs | Depth-First Search    | Memory (Stack vs. Heap)   |
+| Stacks & Queues        | Merge Sort            | Recursion                 |
+| Heaps                  | QuickSort             | Dynamic Programming       |
+| Vectors/ArrayLists     | Binary Search         | Big 0 Time & Space        |
+| Hash Tables            |                       |                           |
+
+Implement each from scratch!
+
+***
+
+__Powers of Twos__
+
+![powers_of_twos](twos.png)
+
+__Problem Solving Method__
+See CrackingTheCodingInterview.com
+
+__Beautiful Code Means:__
+1. Modular, have a function initialize the dataset
+2. Error Checks, add a //todo
+3. Use classes where appropriate
+4. Good variable names
+
+BUD
+Bottle Neck
+Unnecessary Code
+Duplicate Code
+
+Best Conceivable Runtime
+
+End of Introduction, ready to dive into exercises!!!
+***
