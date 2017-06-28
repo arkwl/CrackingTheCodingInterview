@@ -61,4 +61,10 @@ Additional Problems:
 VI.1  O(b) ✅
 VI.2  O(b) ✅
 VI.3  O(1) ✅
-VI.4  O(b/a) oof almost O(a/b)
+VI.4  O(b/a), oof almost O(a/b)
+VI.5  O(log n) ✅
+VI.6  O(n), no (guess*guess > n ) == (guess > sqrt(n))
+VI.7  O(n) ✅
+VI.8  O(n) ✅
+VI.9  O(n^2) ✅
+VI.10 O(# of digits) almost!!! # of digits = 10^d (d = log n), so O(log n)
