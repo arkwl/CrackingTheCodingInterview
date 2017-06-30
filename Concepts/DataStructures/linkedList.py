@@ -7,7 +7,8 @@ class Node(object):
         self.next = None
         self.prev = None
 
-end = Node(7)
+head = Node(7)
+end = head
 
 def add(node):
     global end
@@ -17,12 +18,15 @@ def add(node):
     return
 
 def printLinkedList():
-    head = end
-    while (head.value != None):
-        print head.value
-        head = head.prev
-        if (head.value == None):
+    global head
+    start = head
+    while (True):
+        print start.value
+        if (start.next == None):
             break
+        start = start.next
+
+
 
 add(Node(5))
 add(Node(3))
