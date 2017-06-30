@@ -17,6 +17,7 @@ def add(node):
     end = node
     return
 
+#with reference to the beginning 
 def printLinkedList():
     global head
     start = head
