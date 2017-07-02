@@ -25,17 +25,6 @@ def dequeue():
     end.next = None
     return
 
-#with reference to the beginning
-def printLinkedList():
-    global head
-    start = head
-    while (True):
-        print start.value
-        if (start.next == None):
-            break
-        start = start.next
-
-
 enque(Node(5))
 enque(Node(3))
 enque(Node(1))
