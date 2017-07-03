@@ -83,12 +83,12 @@ __What you need to know__
 
 | Data Structures        | Algorithms            | Concepts                  |
 | ---------------------- |:--------------------- |:-------------------------:|
-| Linked Lists           | Breadth-First Search  | Bit Manipulation          |
+| Linked Lists   ✅        | Breadth-First Search  | Bit Manipulation          |
 | Trees, Tries, & Graphs | Depth-First Search    | Memory (Stack vs. Heap)   |
-| Stacks & Queues        | Merge Sort            | Recursion                 |
+| Stacks & Queues ✅       | Merge Sort            | Recursion                 |
 | Heaps                  | QuickSort             | Dynamic Programming       |
 | Vectors/ArrayLists     | Binary Search         | Big 0 Time & Space        |
-| Hash Tables            |                       |                           |
+| Hash Tables ✅           |                       |                           |
 
 Implement each from scratch!
 
