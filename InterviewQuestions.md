@@ -27,3 +27,10 @@ iterating through hashmap():
         odd = true
       else
           return false
+
+2.1 Remove duplicates in an unsorted list
+  Put all elements in a Set(), duplicates immediately get take care of. {}
+
+2.6 Check to see if a linked list is a Palindrome.
+  1. Reverse the original list
+  2. Iterate through, one by one, if there's a difference return false.
