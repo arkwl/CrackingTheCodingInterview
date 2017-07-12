@@ -20,3 +20,10 @@ Time complexity O(ab)=O(n)
         -> aba : all even and one odd
 
 string must only have one odd char count!!!!
+
+odd = false
+iterating through hashmap():
+      if(char.value % 2):
+        odd = true
+      else
+          return false
