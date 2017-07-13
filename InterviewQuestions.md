@@ -31,6 +31,14 @@ iterating through hashmap():
 2.1 Remove duplicates in an unsorted list
   Put all elements in a Set(), duplicates immediately get take care of. {}
 
+2.2 Return kth to the last of a singly linked list
+  put it all on a stack
+  then pop off k times
+
+2.3 Delete middle node of a singly linked list
+  ** the runner method **
+  implementation in the folder
+
 2.6 Check to see if a linked list is a Palindrome.
   1. Reverse the original list
   2. Iterate through, one by one, if there's a difference return false.
