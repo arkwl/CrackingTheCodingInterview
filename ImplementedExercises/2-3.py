@@ -5,9 +5,7 @@ class Node(object):
         self.next = None
         self.prev = None
 
-#stack
 top = Node("a")
-#list
 head = Node("a")
 end = head
 
@@ -22,6 +20,7 @@ def pop():
     global top
     if (top.prev == None):
         return
+    print top.value
     top = top.prev
     top.next = None
 
@@ -31,22 +30,33 @@ def add(node):
     end = node
     return
 
+def printLinkedList():
+    global head
+    start = head
+    while (True):
+        print start.value
+        if (start.next == None):
+            break
+        start = start.next
+
+
 add(Node("b"))
 add(Node("c"))
 add(Node("d"))
 add(Node("e"))
 
-k = 2
-
-
-start = head
+previousSlow = ""
+slow = head
+fast = head
 while (True):
-    print start.value
-    push(start)
-    if (start.next == None):
+    if (fast.next == None):
         break
-    start = start.next
+    previousSlow = slow
+    slow = slow.next
+    fast = fast.next.next
 
-for i in range(k):
-    pop()
-print("kth value: "+top.value)
+print("slow value: " + slow.value)
+print("fast value: " + fast.value)
+
+previousSlow.next = slow.next
+printLinkedList()
