@@ -16,6 +16,7 @@ def push(node):
     top = node
     return
 
+
 def pop():
     global top
     if (top.value == None):
