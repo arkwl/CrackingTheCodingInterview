@@ -11,7 +11,7 @@ Can be done with standard arrays cause char => int
 
 Hash both strings, check if both have same # of characters.
 
-Time complexity O(ab)=O(n)
+Time complexity O(ab)=O(n)!!s
 
 1.4 Palindrome Permutation
 
